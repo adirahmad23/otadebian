@@ -1,20 +1,20 @@
 {
   "entityType" : "DEVICE_PROFILE",
   "entity" : {
-    "default" : true,
+    "default" : false,
     "defaultDashboardId" : null,
     "defaultEdgeRuleChainId" : null,
     "defaultQueueName" : null,
     "defaultRuleChainId" : null,
-    "description" : "",
+    "description" : "Default device profile",
     "externalId" : null,
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE_PROFILE",
-      "id" : "bf1bcb00-b88b-11f0-93fe-7d105c858bc1"
+      "id" : "1992fe70-b2f9-11f0-b8d2-4dcff959434c"
     },
     "image" : null,
-    "name" : "otadebian",
+    "name" : "default",
     "profileData" : {
       "alarms" : null,
       "configuration" : {
@@ -25,25 +25,13 @@
         "provisionDeviceSecret" : null
       },
       "transportConfiguration" : {
-        "type" : "MQTT",
-        "deviceAttributesSubscribeTopic" : "v1/devices/me/attributes",
-        "deviceAttributesTopic" : "v1/devices/me/attributes",
-        "deviceTelemetryTopic" : "v1/devices/me/telemetry",
-        "sendAckOnValidationException" : false,
-        "sparkplug" : false,
-        "sparkplugAttributesMetricNames" : [ "Properties/*", "Device Control/*", "Node Control/*" ],
-        "transportPayloadTypeConfiguration" : {
-          "transportPayloadType" : "JSON"
-        }
+        "type" : "DEFAULT"
       }
     },
     "provisionDeviceKey" : null,
     "provisionType" : "DISABLED",
-    "softwareId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "20694030-b892-11f0-93fe-7d105c858bc1"
-    },
-    "transportType" : "MQTT",
+    "softwareId" : null,
+    "transportType" : "DEFAULT",
     "type" : "DEFAULT"
   },
   "relations" : [ ],

@@ -1,0 +1,30 @@
+{
+  "entityType" : "OTA_PACKAGE",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "checksum" : null,
+    "checksumAlgorithm" : null,
+    "contentType" : null,
+    "data" : null,
+    "dataSize" : null,
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "bf1bcb00-b88b-11f0-93fe-7d105c858bc1"
+    },
+    "externalId" : null,
+    "fileName" : null,
+    "hasData" : false,
+    "id" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "87e55aa0-b88d-11f0-93fe-7d105c858bc1"
+    },
+    "name" : "OTAChipsee",
+    "tag" : "OTAChipsee v1.0.1",
+    "title" : "OTAChipsee",
+    "type" : "SOFTWARE",
+    "url" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.1.zip",
+    "version" : "v1.0.1"
+  }
+}
