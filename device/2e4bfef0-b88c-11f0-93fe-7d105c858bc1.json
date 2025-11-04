@@ -30,7 +30,10 @@
     },
     "label" : "",
     "name" : "chipseedebian",
-    "softwareId" : null,
+    "softwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "dee68360-b94b-11f0-93fe-7d105c858bc1"
+    },
     "type" : "otadebian"
   },
   "credentials" : {
@@ -60,24 +63,24 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762245145170,
-      "longValue" : 1762245145170,
+      "lastUpdateTs" : 1762245150438,
+      "longValue" : 1762245150438,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762245145170,
-      "longValue" : 1762245145170,
+      "lastUpdateTs" : 1762245150438,
+      "longValue" : 1762245150438,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762245145171,
-      "longValue" : 1762245145170,
+      "lastUpdateTs" : 1762245150438,
+      "longValue" : 1762245150438,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
