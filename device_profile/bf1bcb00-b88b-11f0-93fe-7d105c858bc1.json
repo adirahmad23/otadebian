@@ -41,12 +41,11 @@
     "provisionType" : "DISABLED",
     "softwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "20694030-b892-11f0-93fe-7d105c858bc1"
+      "id" : "dee68360-b94b-11f0-93fe-7d105c858bc1"
     },
     "transportType" : "MQTT",
     "type" : "DEFAULT"
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ ]
   },
