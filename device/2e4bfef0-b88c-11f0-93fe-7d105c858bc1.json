@@ -30,10 +30,7 @@
     },
     "label" : "",
     "name" : "chipseedebian",
-    "softwareId" : {
-      "entityType" : "OTA_PACKAGE",
-      "id" : "dee68360-b94b-11f0-93fe-7d105c858bc1"
-    },
+    "softwareId" : null,
     "type" : "otadebian"
   },
   "credentials" : {
@@ -47,7 +44,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762243530727,
+      "lastUpdateTs" : 1762245078692,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -55,32 +52,32 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1762241954170,
-      "longValue" : 1762241954170,
+      "lastUpdateTs" : 1762244774181,
+      "longValue" : 1762244774181,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762243719151,
-      "longValue" : 1762243719151,
+      "lastUpdateTs" : 1762245145170,
+      "longValue" : 1762245145170,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762243719151,
-      "longValue" : 1762243719151,
+      "lastUpdateTs" : 1762245145170,
+      "longValue" : 1762245145170,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762243719151,
-      "longValue" : 1762243719151,
+      "lastUpdateTs" : 1762245145171,
+      "longValue" : 1762245145170,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
