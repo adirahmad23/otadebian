@@ -1,0 +1,106 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : false,
+      "overwriteActivityTime" : false,
+      "description" : ""
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "MQTT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "bf1bcb00-b88b-11f0-93fe-7d105c858bc1"
+    },
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "2e4bfef0-b88c-11f0-93fe-7d105c858bc1"
+    },
+    "label" : "",
+    "name" : "chipseedebian",
+    "softwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "20694030-b892-11f0-93fe-7d105c858bc1"
+    },
+    "type" : "otadebian"
+  },
+  "credentials" : {
+    "credentialsId" : "47pglrbuhwtygbtqf1ld",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : true,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1762227001936,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1762226714119,
+      "longValue" : 1762226714119,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1762227366761,
+      "longValue" : 1762227366337,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastConnectTime",
+      "lastUpdateTs" : 1762227366331,
+      "longValue" : 1762227366331,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastDisconnectTime",
+      "lastUpdateTs" : 1762227366357,
+      "longValue" : 1762227366357,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "sw_url",
+      "lastUpdateTs" : 1762161061503,
+      "longValue" : null,
+      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.2.zip"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "sw_version",
+      "lastUpdateTs" : 1762160346463,
+      "longValue" : null,
+      "strValue" : "v1.0.2"
+    } ]
+  },
+  "calculatedFields" : [ ]
+}
