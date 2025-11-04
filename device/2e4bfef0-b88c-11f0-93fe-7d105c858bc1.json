@@ -41,7 +41,6 @@
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
-  "relations" : [ ],
   "attributes" : {
     "SERVER_SCOPE" : [ {
       "booleanValue" : true,
@@ -64,24 +63,24 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762239177241,
-      "longValue" : 1762239177241,
+      "lastUpdateTs" : 1762239237788,
+      "longValue" : 1762239237788,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762239177241,
-      "longValue" : 1762239177241,
+      "lastUpdateTs" : 1762239237788,
+      "longValue" : 1762239237788,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762239177267,
-      "longValue" : 1762239177267,
+      "lastUpdateTs" : 1762239237788,
+      "longValue" : 1762239237788,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
