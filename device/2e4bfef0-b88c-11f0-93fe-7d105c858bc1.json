@@ -32,7 +32,7 @@
     "name" : "chipseedebian",
     "softwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "dee68360-b94b-11f0-93fe-7d105c858bc1"
+      "id" : "b7ba86f0-b9fb-11f0-93fe-7d105c858bc1"
     },
     "type" : "otadebian"
   },
@@ -47,7 +47,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762245078692,
+      "lastUpdateTs" : 1762322998253,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -55,50 +55,50 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1762244774181,
-      "longValue" : 1762244774181,
+      "lastUpdateTs" : 1762319234454,
+      "longValue" : 1762319234454,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762245150438,
-      "longValue" : 1762245150438,
+      "lastUpdateTs" : 1762322998253,
+      "longValue" : 1762322998253,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762245150438,
-      "longValue" : 1762245150438,
+      "lastUpdateTs" : 1762322998252,
+      "longValue" : 1762322998252,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762245150438,
-      "longValue" : 1762245150438,
+      "lastUpdateTs" : 1762318583541,
+      "longValue" : 1762318583541,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "sw_url",
-      "lastUpdateTs" : 1762161061503,
+      "key" : "target_sw_url",
+      "lastUpdateTs" : 1762315213052,
       "longValue" : null,
-      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.2.zip"
+      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.5.zip"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "sw_version",
-      "lastUpdateTs" : 1762241509138,
+      "key" : "target_sw_version",
+      "lastUpdateTs" : 1762318362226,
       "longValue" : null,
-      "strValue" : "1.0.2"
+      "strValue" : "v1.0.5"
     } ]
   },
   "calculatedFields" : [ ]
