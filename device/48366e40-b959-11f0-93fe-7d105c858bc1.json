@@ -63,27 +63,11 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762309842751,
-      "longValue" : 1762309839810,
+      "lastUpdateTs" : 1762310205766,
+      "longValue" : 1762310203849,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "target_sw_url",
-      "lastUpdateTs" : 1762309617782,
-      "longValue" : null,
-      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.4.zip"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "target_sw_version",
-      "lastUpdateTs" : 1762309598016,
-      "longValue" : null,
-      "strValue" : "v1.0.4"
-    } ]
+    "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
 }
