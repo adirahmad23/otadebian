@@ -41,7 +41,7 @@
     "provisionType" : "DISABLED",
     "softwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "dee68360-b94b-11f0-93fe-7d105c858bc1"
+      "id" : "711117f0-b960-11f0-93fe-7d105c858bc1"
     },
     "transportType" : "MQTT",
     "type" : "DEFAULT"

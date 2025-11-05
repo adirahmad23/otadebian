@@ -32,7 +32,7 @@
     "name" : "otaAPI",
     "softwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "dee68360-b94b-11f0-93fe-7d105c858bc1"
+      "id" : "711117f0-b960-11f0-93fe-7d105c858bc1"
     },
     "type" : "otadebian"
   },
@@ -55,11 +55,27 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762246512747,
-      "longValue" : 1762246512521,
+      "lastUpdateTs" : 1762248618765,
+      "longValue" : 1762248618109,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ ]
+    "SHARED_SCOPE" : [ {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "target_sw_url",
+      "lastUpdateTs" : 1762246684682,
+      "longValue" : null,
+      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.2.zip"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "target_sw_version",
+      "lastUpdateTs" : 1762246912893,
+      "longValue" : null,
+      "strValue" : "v1.0.2"
+    } ]
   },
   "calculatedFields" : [ ]
 }
