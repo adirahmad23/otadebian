@@ -47,16 +47,24 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762245951774,
+      "lastUpdateTs" : 1762307607759,
       "longValue" : null,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1762251014203,
+      "longValue" : 1762251014203,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762248618765,
-      "longValue" : 1762248618109,
+      "lastUpdateTs" : 1762309842751,
+      "longValue" : 1762309839810,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
@@ -64,17 +72,17 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "target_sw_url",
-      "lastUpdateTs" : 1762246684682,
+      "lastUpdateTs" : 1762309617782,
       "longValue" : null,
-      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.2.zip"
+      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.4.zip"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "target_sw_version",
-      "lastUpdateTs" : 1762246912893,
+      "lastUpdateTs" : 1762309598016,
       "longValue" : null,
-      "strValue" : "v1.0.2"
+      "strValue" : "v1.0.4"
     } ]
   },
   "calculatedFields" : [ ]
