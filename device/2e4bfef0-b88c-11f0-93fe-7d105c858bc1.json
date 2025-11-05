@@ -47,7 +47,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762312155711,
+      "lastUpdateTs" : 1762316335564,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -55,32 +55,32 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1762251014203,
-      "longValue" : 1762251014203,
+      "lastUpdateTs" : 1762316174442,
+      "longValue" : 1762316174442,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762315137760,
-      "longValue" : 1762315134743,
+      "lastUpdateTs" : 1762316407091,
+      "longValue" : 1762316407091,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762315074689,
-      "longValue" : 1762315074689,
+      "lastUpdateTs" : 1762316407091,
+      "longValue" : 1762316407091,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762315070279,
-      "longValue" : 1762315070279,
+      "lastUpdateTs" : 1762316362461,
+      "longValue" : 1762316362461,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
@@ -88,7 +88,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "target_sw_url",
-      "lastUpdateTs" : 1762314955844,
+      "lastUpdateTs" : 1762315213052,
       "longValue" : null,
       "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.5.zip"
     }, {
@@ -96,7 +96,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "target_sw_version",
-      "lastUpdateTs" : 1762314959913,
+      "lastUpdateTs" : 1762316414207,
       "longValue" : null,
       "strValue" : "v1.0.5"
     } ]
