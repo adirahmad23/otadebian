@@ -26,18 +26,18 @@
     "firmwareId" : null,
     "id" : {
       "entityType" : "DEVICE",
-      "id" : "2e4bfef0-b88c-11f0-93fe-7d105c858bc1"
+      "id" : "48366e40-b959-11f0-93fe-7d105c858bc1"
     },
     "label" : "",
-    "name" : "chipseedebian",
+    "name" : "otaAPI",
     "softwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "b7ba86f0-b9fb-11f0-93fe-7d105c858bc1"
+      "id" : "711117f0-b960-11f0-93fe-7d105c858bc1"
     },
     "type" : "otadebian"
   },
   "credentials" : {
-    "credentialsId" : "47pglrbuhwtygbtqf1ld",
+    "credentialsId" : "8x0q59e9hcm8m76zuck9",
     "credentialsType" : "ACCESS_TOKEN",
     "credentialsValue" : null
   },
@@ -47,7 +47,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1762322998253,
+      "lastUpdateTs" : 1762307607759,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -55,51 +55,19 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1762319234454,
-      "longValue" : 1762319234454,
+      "lastUpdateTs" : 1762251014203,
+      "longValue" : 1762251014203,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762322998253,
-      "longValue" : 1762322998253,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762322998252,
-      "longValue" : 1762322998252,
-      "strValue" : null
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762318583541,
-      "longValue" : 1762318583541,
+      "lastUpdateTs" : 1762310205766,
+      "longValue" : 1762310203849,
       "strValue" : null
     } ],
-    "SHARED_SCOPE" : [ {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "target_sw_url",
-      "lastUpdateTs" : 1762315213052,
-      "longValue" : null,
-      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.5.zip"
-    }, {
-      "booleanValue" : null,
-      "doubleValue" : null,
-      "jsonValue" : null,
-      "key" : "target_sw_version",
-      "lastUpdateTs" : 1762318362226,
-      "longValue" : null,
-      "strValue" : "v1.0.5"
-    } ]
+    "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
 }

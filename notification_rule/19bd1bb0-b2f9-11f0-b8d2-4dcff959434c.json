@@ -1,0 +1,32 @@
+{
+  "entityType" : "NOTIFICATION_RULE",
+  "entity" : {
+    "additionalConfig" : {
+      "description" : "Send notification to user when any alarm was assigned to him"
+    },
+    "enabled" : true,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "19bd1bb0-b2f9-11f0-b8d2-4dcff959434c"
+    },
+    "name" : "Alarm assignment",
+    "recipientsConfig" : {
+      "targets" : [ "19b41b00-b2f9-11f0-b8d2-4dcff959434c" ],
+      "triggerType" : "ALARM_ASSIGNMENT"
+    },
+    "templateId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "19bc5860-b2f9-11f0-b8d2-4dcff959434c"
+    },
+    "triggerConfig" : {
+      "triggerType" : "ALARM_ASSIGNMENT",
+      "alarmSeverities" : null,
+      "alarmStatuses" : null,
+      "alarmTypes" : null,
+      "notifyOn" : [ "ASSIGNED" ],
+      "triggerType" : "ALARM_ASSIGNMENT"
+    },
+    "triggerType" : "ALARM_ASSIGNMENT"
+  }
+}

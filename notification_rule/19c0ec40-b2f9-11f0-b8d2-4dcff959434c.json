@@ -1,0 +1,29 @@
+{
+  "entityType" : "NOTIFICATION_RULE",
+  "entity" : {
+    "additionalConfig" : {
+      "description" : "Send notification to tenant admins when communication failures occur"
+    },
+    "enabled" : true,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "19c0ec40-b2f9-11f0-b8d2-4dcff959434c"
+    },
+    "name" : "Edge communication failure",
+    "recipientsConfig" : {
+      "targets" : [ "19b1f820-b2f9-11f0-b8d2-4dcff959434c" ],
+      "triggerType" : "EDGE_COMMUNICATION_FAILURE"
+    },
+    "templateId" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "19c07710-b2f9-11f0-b8d2-4dcff959434c"
+    },
+    "triggerConfig" : {
+      "triggerType" : "EDGE_COMMUNICATION_FAILURE",
+      "edges" : null,
+      "triggerType" : "EDGE_COMMUNICATION_FAILURE"
+    },
+    "triggerType" : "EDGE_COMMUNICATION_FAILURE"
+  }
+}

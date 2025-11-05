@@ -39,7 +39,10 @@
     },
     "provisionDeviceKey" : null,
     "provisionType" : "DISABLED",
-    "softwareId" : null,
+    "softwareId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "711117f0-b960-11f0-93fe-7d105c858bc1"
+    },
     "transportType" : "MQTT",
     "type" : "DEFAULT"
   },
