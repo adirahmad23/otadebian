@@ -32,7 +32,7 @@
     "name" : "chipseedebian",
     "softwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "711117f0-b960-11f0-93fe-7d105c858bc1"
+      "id" : "b7ba86f0-b9fb-11f0-93fe-7d105c858bc1"
     },
     "type" : "otadebian"
   },
@@ -63,42 +63,42 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1762312158761,
-      "longValue" : 1762312155773,
+      "lastUpdateTs" : 1762315137760,
+      "longValue" : 1762315134743,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1762312155711,
-      "longValue" : 1762312155711,
+      "lastUpdateTs" : 1762315074689,
+      "longValue" : 1762315074689,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1762250379385,
-      "longValue" : 1762250379385,
+      "lastUpdateTs" : 1762315070279,
+      "longValue" : 1762315070279,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "sw_url",
-      "lastUpdateTs" : 1762161061503,
+      "key" : "target_sw_url",
+      "lastUpdateTs" : 1762314955844,
       "longValue" : null,
-      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.2.zip"
+      "strValue" : "https://github.com/adirahmad23/otadebian/archive/refs/tags/v1.0.5.zip"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
-      "key" : "sw_version",
-      "lastUpdateTs" : 1762241509138,
+      "key" : "target_sw_version",
+      "lastUpdateTs" : 1762314959913,
       "longValue" : null,
-      "strValue" : "1.0.2"
+      "strValue" : "v1.0.5"
     } ]
   },
   "calculatedFields" : [ ]
